@@ -1,0 +1,4 @@
+VMware vSphere provider for Vagrant:
+https://github.com/nsidc/vagrant-vsphere
+A stub Vagrantfile with examples and directory structures for shell, puppet, and chef provisioning:
+https://github.com/BroEZ/esx-vagrant-stub
